@@ -1,5 +1,5 @@
 # steadfast-media
 
-Temporary hosting for The Steadfast (@thesteadfast.co) videos on their way to Metricool.
-Each reel is uploaded as a GitHub release asset, scheduled in Metricool from the release URL,
-and the release is deleted once Metricool holds its own copy of the media.
+Temporary hosting for The Steadfast (@thesteadfast.co) media on its way to Metricool.
+Each file is committed here, scheduled in Metricool from its raw URL, and deleted
+in the Saturday cleanup once the post shows as published (Metricool keeps its own copy).
